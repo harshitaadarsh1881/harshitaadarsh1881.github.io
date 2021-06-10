@@ -1,4 +1,3 @@
-![Harshit Aadarsh](https://user-images.githubusercontent.com/85688748/121550735-9f01d000-ca2c-11eb-9aae-f320ad3bac13.jpg)
 <html>
   <head>
     <title>Harshit Aadarsh Website</title>
