@@ -16,7 +16,6 @@
     <h2><center><bold>My School</bold></center></h2>
      <p>DAV Public School, Koyla Nagar, Dhanbad came into existence when the school run by Kendriya Vidyalaya Sansthan was handed over to D.A.V. organization on 12 April 2000. It is a project school sponsored by Bharat Cooking Coal Ltd., a subsidiary of Coal India Ltd, and the entire infrastructure has been provided by BCCL. It is an English medium Co-educational school affiliated to the Central Board of Secondary Education, New Delhi, India. It is run by the D.A.V. College Managing Committee, New Delhi. Dr. K.C.Srivastava was the first Principal of the school (Principal 2000-18) and yet now he is the regional director. The new principal of the school is A.K. Pandey Sir. The motto of the school is 'Victory is determination.</p>
        </font>
-       <font color=red align=center face="Verdana"></font>
-    <h2><b>THANK YOU.......</b></h2>
+       <font color=red align=center face="Verdana">THANK YOU........................................................................................................</font>
        </body>
        </html>
