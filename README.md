@@ -9,7 +9,7 @@
     <h1><center>Harshit Aadarsh</center></h1>
       <p>Hello I am Harshit.</p>
       <p>I am 11 years old. I study in DAV Koylanagar in class 6 'D'.</p>
-      <p>I have a website on github where I can upload my pages. You can also see my web pages by following me. You can visit my website by this link - "https://harshitaadarsh1881.github.io/".</p>
+      <p>I have a website on github where I can upload my pages. You can also see my web pages by following me. You can visit my website by this link - "https://harshitaadarsh1881.github.io/". You should check my website by both PC/Laptop and Mobile Phone</p>
   </font>
   <font color=blue align=center size=5 face="Rockwell Extra Bold" >
 
