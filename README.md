@@ -5,7 +5,7 @@
     <title>Harshit Aadarsh Website</title>
   </head>
   <body bgcolor="green">
-    <font color=blue size=5 align=center face="verdana">
+    <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Harshit Aadarsh</center></h1>
        <p>Hello I am Harshit.</p>
       <p>I am 11 years old. I study in DAV Koylanagar in class 6 'D'.</p>
