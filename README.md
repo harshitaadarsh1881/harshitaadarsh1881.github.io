@@ -5,10 +5,7 @@
     <title>Harshit Aadarsh Website</title>
   </head>
   <body bgcolor="green">
-    <center>
-      <img src="C:\Users\Public\Pictures\Sample Pictures\Penguins.jpg" width="400" height="250">
-    </center>
-    <font color=blue size=5 align=center>
+    <font color=blue size=5 align=center face="verdana">
     <h1><center>Harshit Aadarsh</center></h1>
        <p>Hello I am Harshit.</p>
       <p>I am 11 years old. I study in DAV Koylanagar in class 6 'D'.</p>
