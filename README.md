@@ -18,7 +18,7 @@
        </font>
        <font color=red align=center face="Verdana" size=10>THANK YOU........................................</font>
     <center>
-      <span style="font size:100px">&#128515</span>
+      <span style='font size:100px;'>&#128515;</span>
     </center>
        </body>
        </html>
