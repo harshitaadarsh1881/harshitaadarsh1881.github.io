@@ -3,7 +3,8 @@
   <head>
     <title>Harshit Aadarsh Website</title>
   </head>
-  <body style="background-color:yellow">
+  <body>
+    <div style="background-image:url('image1.jpg');">
     <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Harshit Aadarsh</center></h1>
       <p>Hello I am Harshit.</p>
