@@ -6,7 +6,8 @@
   </head>
   <body bgcolor="green">
     <center>
-      <img src="image1.jpg" alt="image1" width="400" height="250">
+      <img src="C:\Users\user\Desktop\image1.jpg" alt="image1" width="400" height="250">
+    </center>
     <font color=blue size=5 align=center>
     <h1><center>Harshit Aadarsh</center></h1>
        <p>Hello I am Harshit.</p>
