@@ -1,12 +1,8 @@
 <html>
   <head>
-    <title> Harshit Aadarsh </title>
-  </head>
-  <body style="background-color:green">
-      <font color="yellow" size="5" face="Times New Roman">
-        <h1><cener> Welcome</center></h1>
-    </font>
-    ![](Screenshot_2021-06-10-20-45-31-42)
+    <title> Harshit Aadarsh</title>
+    <body style="background-color=green">![Screenshot_20191104_120007](https://user-images.githubusercontent.com/85688748/121711898-b7d7b780-caf8-11eb-8e38-324a0178395a.jpg)
+
     <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Harshit Aadarsh</center></h1>
       <p>Hello I am Harshit.</p>
