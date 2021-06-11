@@ -1,9 +1,12 @@
-![Screenshot_2021-06-10-20-45-31-42](https://user-images.githubusercontent.com/85688748/121551172-0a4ba200-ca2d-11eb-991a-4faece5c5f48.jpg)
 <html>
   <head>
-    <title>Harshit Aadarsh Website</title>
+    <title> Harshit Aadarsh </title>
   </head>
   <body style="background-color:green">
+      <font color="yellow" size="5" face="Times New Roman">
+        <h1><cener> Welcome</center></h1>
+    </font>
+![Screenshot_2021-06-10-20-45-31-42](https://user-images.githubusercontent.com/85688748/121551172-0a4ba200-ca2d-11eb-991a-4faece5c5f48.jpg)
     <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Harshit Aadarsh</center></h1>
       <p>Hello I am Harshit.</p>
