@@ -7,8 +7,7 @@
         <marquee><h1 style="background-color:Yellow"> Welcome</h1></marquee>
       </font>
       <center>
-        <img src=""![Harshit Aadarsh](https://user-images.githubusercontent.com/85688748/121800249-6e997c00-cc4e-11eb-8ea2-f5e5a5e00edc.jpeg)
->
+        <img src="![Harshit Aadarsh](https://user-images.githubusercontent.com/85688748/121800249-6e997c00-cc4e-11eb-8ea2-f5e5a5e00edc.jpeg)">
       </center>
          <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Harshit Aadarsh</center></h1>
