@@ -1,10 +1,15 @@
 <html>
   <head>
     <title> Harshit Aadarsh</title>
-    <body style="background-color=green">![Screenshot_2021-06-11-13-20-33-14](https://user-images.githubusercontent.com/85688748/121712011-d938a380-caf8-11eb-82c7-ddca4f8cbbc0.jpg)
-
-
-    <font color=blue size=5 align=center face="Rockwell Extra Bold">
+  </head>
+    <body style="background-color:green">
+      <font color="Red">
+        <marquee><h1 style="background-color:Yellow"> Welcome</h1></marquee>
+      </font>
+      <center>
+        <img src="Harshit Aadarsh.jpeg">
+      </center>
+         <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Harshit Aadarsh</center></h1>
       <p>Hello I am Harshit.</p>
       <p>I am 11 years old. I study in DAV Koylanagar in class 6 'D'.</p>
