@@ -1,13 +1,13 @@
+    ![harshitaadarsh](https://user-images.githubusercontent.com/85688748/122006054-feb4fe00-cdd3-11eb-969b-9cf687314a7e.jpeg)
+
 <html>
   <head>
-    <title> Harshit Aadarsh</title>
+    <title> Harshit Aadarsh </title>
   </head>
-    <body style="background-color:green">
-      <center>
-      ![harshitaadarsh](https://user-images.githubusercontent.com/85688748/121996609-885dcf00-cdc6-11eb-8e52-f8b84979cd4b.jpeg)
-      </center>
-      <font color="red">
-        <marquee><h1 style="background-color:yellow"> Welcome to my first website </marquee></h1></font>
+  <body style="background color:green">
+<font color="red">
+  <marquee><h1 style="background-color:yellow"> Welcome to my first website</h1></marquee>
+    </font>
          <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Harshit Aadarsh</center></h1>
       <p>Hello I am Harshit.</p>
