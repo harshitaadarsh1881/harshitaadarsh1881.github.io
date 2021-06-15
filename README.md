@@ -3,12 +3,11 @@
     <title> Harshit Aadarsh</title>
   </head>
     <body style="background-color:green">
-      <font color="Red">
-        <marquee><h1 style="background-color:Yellow"> Welcome</h1></marquee>
-      </font>
       <center>
-        <img src="![Harshit Aadarsh](C:\Users\user\Desktop\Harshit Aadarsh.jpeg)">
+      ![harshitaadarsh](https://user-images.githubusercontent.com/85688748/121996609-885dcf00-cdc6-11eb-8e52-f8b84979cd4b.jpeg)
       </center>
+      <font color="red">
+        <marquee><h1 style="background-color:yellow"> Welcome to my first website </marquee></h1></font>
          <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Harshit Aadarsh</center></h1>
       <p>Hello I am Harshit.</p>
