@@ -4,7 +4,7 @@
   <head>
     <title> Harshit Aadarsh </title>
   </head>
-  <body style="background color:green">
+  <body style="background-color:green">
 <font color="red">
   <marquee><h1 style="background-color:yellow"> Welcome to my first website</h1></marquee>
     </font>
