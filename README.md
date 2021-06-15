@@ -6,7 +6,7 @@
   </head>
   <body style="background color:green">
 <font color="red">
-  <marquee><h1 style="background-color:yellow"> Welcome to my first website</h1></marquee>
+  <marquee><h1 style="background-color:yellow"> Welcome to my first website</h1 >
     </font>
          <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Harshit Aadarsh</center></h1>
@@ -18,5 +18,6 @@
     <center>
       <span style='font-size:100px;'>&#128515;</span>
     </center>
+    </marquee>
        </body>
        </html>
